@@ -6,3 +6,6 @@ Testing testing 1 2 3 :P
 
 By my awesome partner, Philip Nye.
 ![Dog](./dog.jpeg)
+
+By our CSE 29 TA.
+![Turtle](./turtle.jpeg)
