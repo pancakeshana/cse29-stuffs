@@ -4,4 +4,5 @@ Testing testing 1 2 3 :P
 
 ![Dolphin](./symphony.jpeg)
 
+By my awesome partner, Philip Nye.
 ![Dog](./dog.jpeg)
